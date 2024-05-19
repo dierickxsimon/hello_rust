@@ -3,6 +3,7 @@ fn main() {
     //just some test code to learn rust
     //================================================================
     let mut x: i32 = 5;
+    let y: i32 = 10;
 
     x += 1;
 
