@@ -1,7 +1,7 @@
 #[allow(unused_variables)]
 fn main() {
     //just some test code to learn rust
-    //
+    //================================================================
     let mut x: i32 = 5;
 
     x += 1;
